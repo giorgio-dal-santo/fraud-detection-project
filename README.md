@@ -10,17 +10,13 @@ New generation data models and DBMSs project
 - conceptual model
 - logical model considering the workload (a, b, c)
 - script to load datasets into NoSQL
-- implement script for required operations (a, b, c)
+- implement script for required operations (a, b, c, e)
 - extended logical model: 
     - new info for transaction:
         - payment method: credit card / mobile payment / paypal
         - promotional offer: yes / no
         - customer’s satisfaction: 1…5 (integer)
     - frequent collaborators
-
-- for each day of the week:
-    - total number of transactions
-    - proportion of outlier transactions
 
 - performance evaluation for all operations
 
