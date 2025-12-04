@@ -4,6 +4,9 @@ data/*.csv
 # macOS system files
 .DS_Store
 
+# IDE files
+.idea/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
